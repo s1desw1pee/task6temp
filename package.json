@@ -1,23 +1,23 @@
 {
-  "name": "wt-js-02-color-switcher-timer",
+  "name": "task6temp",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Allen123462.github.io/wt-js-02-color-switcher-timer/",
+  "homepage": "https://Allen123462.github.io/task6temp/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /wt-js-02-color-switcher-timer/"
+    "build": "parcel build src/*.html --public-url /task6temp/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Allen123462/wt-js-02-color-switcher-timer.git"
+    "url": "git+https://github.com/Allen123462/task6temp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Allen123462/wt-js-02-color-switcher-timer/issues"
+    "url": "https://github.com/Allen123462/task6temp/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
