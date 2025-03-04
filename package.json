@@ -2,7 +2,7 @@
   "name": "task6temp",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Allen123462.github.io/task6temp/",
+  "homepage": "https://s1desw1pee.github.io/task6temp/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Allen123462/task6temp.git"
+    "url": "git+https://github.com/s1desw1pee/task6temp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Allen123462/task6temp/issues"
+    "url": "https://github.com/s1desw1pee/task6temp/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
